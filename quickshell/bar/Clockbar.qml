@@ -2,7 +2,7 @@ import Quickshell
 import QtQuick
 
 Image {
-	source: "./assets/bar-screen.png"
+	source: "../assets/bar-screen.png"
 	id: "screen"
 	SystemClock {
 		id: clock

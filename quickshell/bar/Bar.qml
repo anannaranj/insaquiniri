@@ -16,7 +16,7 @@ PanelWindow {
 	WlrLayershell.layer: WlrLayer.Bottom
 
 	Image {
-		source: "./assets/bar-left.png"
+		source: "../assets/bar-left.png"
 		width: 30
 		height: 30
 		anchors {
@@ -26,7 +26,7 @@ PanelWindow {
 		}
 	}
 	Image	{
-		source: "./assets/bar-center.png"
+		source: "../assets/bar-center.png"
 		anchors {
 			verticalCenter: parent.verticalCenter
 			left: parent.left
@@ -36,7 +36,7 @@ PanelWindow {
 		}
 	}
 	Image {
-		source: "./assets/bar-right.png"
+		source: "../assets/bar-right.png"
 		width: 30
 		height: 30
 		anchors {
