@@ -1,0 +1,35 @@
+[font]
+normal.family="hurmit nerd font"
+
+# Colors (Everforest Dark)
+
+# Default colors
+[colors.primary]
+background = '#111120'
+foreground = '#aaaaff'
+
+# Normal colors
+[colors.normal]
+black   = '#494548' #carnivore
+red     = '#980024' #guppy
+green   = '#66bc4b' #super specific parts of the money screen lol
+yellow  = '#da5603' #guppy
+blue    = '#2973cb' #king
+magenta = '#532b8b' #hatch screen
+cyan    = '#4fcaf0' #menu button
+white   = '#bbbbff'
+
+# Bright colors
+[colors.bright]
+black   = '#666d77'
+red     = '#fd0058'
+green   = '#6dcb62'
+yellow  = '#e3740e'
+blue    = '#2da3e0'
+magenta = '#4d34b4'
+cyan    = '#73e9fe'
+white   = '#eeeeff'
+
+[window]
+opacity = 0.85
+decorations = "None"
