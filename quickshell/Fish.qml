@@ -14,7 +14,7 @@ PanelWindow {
         y: 300
         x: 1250
         AnimatedSprite {
-            id: "swimming"
+            id: swimming
             source: "./assets/swim.png"
             frameHeight: 80
             frameWidth: 80

@@ -53,10 +53,4 @@ PanelWindow {
             rightMargin: marginrl + spacing + 30
         }
     }
-    Menulauncher {
-        anchors {
-            verticalCenter: parent.verticalCenter
-            horizontalCenter: parent.horizontalCenter
-        }
-    }
 }
