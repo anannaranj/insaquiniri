@@ -58,8 +58,8 @@ layout {
 
     gaps 15
     struts {
-        left 20
-        right 20
+        left 0
+        right 0
         top -10
         bottom 0
     }
