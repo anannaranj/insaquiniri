@@ -24,8 +24,8 @@ input {
         // scroll-method "no-scroll"
     }
 }
-output "LVDS-1" {
-    mode "1366x768@60.001"
+output "HDMI-A-1" {
+    mode "1920x1080@180.003"
     scale 1
     transform "normal"
     position x=0 y=0

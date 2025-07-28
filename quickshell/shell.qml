@@ -4,8 +4,8 @@ import qs.navigators
 
 Scope {
     id: shell
-    property var screenw: 1366
-    property var screenh: 768
+    property var screenw: 1920
+    property var screenh: 1080
     Wallpaper {}
     Bar {}
     Navs {}
