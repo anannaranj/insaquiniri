@@ -8,5 +8,5 @@ Scope {
     property var screenh: 1080
     Wallpaper {}
     Bar {}
-    Navs {}
+    //Navs {}
 }
